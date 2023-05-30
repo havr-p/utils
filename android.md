@@ -13,4 +13,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-```
+```  
+want to change drawable color dynamically? use android:backgroundTint
