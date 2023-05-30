@@ -1,4 +1,4 @@
-Display some fragment at the startup of application:
+Display some fragment at the startup of application: update viewModel of MainActivity to push your fragment
 ```
 class MainActivity : AppCompatActivity() {
 
